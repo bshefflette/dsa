@@ -1,0 +1,153 @@
+[
+    {
+        "id": "New York",
+        "rel": [
+            "Troy",
+            "Hempstead",
+            "Syracuse"
+        ]
+    },
+    {
+        "id": "Buffalo",
+        "rel": [
+            "Utica",
+            "Mount Vernon",
+            "Yonkers",
+            "Binghamton",
+            "White Plains"
+        ]
+    },
+    {
+        "id": "Rochester",
+        "rel": [
+            "Yonkers",
+            "Valley Stream",
+            "Freeport",
+            "Mount Vernon"
+        ]
+    },
+    {
+        "id": "Yonkers",
+        "rel": [
+            "Troy",
+            "New York",
+            "Buffalo"
+        ]
+    },
+    {
+        "id": "Syracuse",
+        "rel": [
+            "Buffalo",
+            "Yonkers",
+            "Rochester",
+            "Albany",
+            "Freeport"
+        ]
+    },
+    {
+        "id": "Albany",
+        "rel": [
+            "Syracuse",
+            "Niagara Falls",
+            "Buffalo"
+        ]
+    },
+    {
+        "id": "New Rochelle",
+        "rel": [
+            "Binghamton",
+            "Hempstead",
+            "Freeport",
+            "Mount Vernon",
+            "Rochester"
+        ]
+    },
+    {
+        "id": "Mount Vernon",
+        "rel": [
+            "Utica",
+            "Yonkers",
+            "Valley Stream",
+            "Hempstead",
+            "Freeport"
+        ]
+    },
+    {
+        "id": "Schenectady",
+        "rel": [
+            "Yonkers",
+            "Valley Stream",
+            "Hempstead",
+            "Troy"
+        ]
+    },
+    {
+        "id": "Utica",
+        "rel": [
+            "Freeport",
+            "Rochester",
+            "Albany"
+        ]
+    },
+    {
+        "id": "White Plains",
+        "rel": [
+            "New York",
+            "Syracuse",
+            "Schenectady"
+        ]
+    },
+    {
+        "id": "Hempstead",
+        "rel": [
+            "Mount Vernon",
+            "Niagara Falls",
+            "Troy"
+        ]
+    },
+    {
+        "id": "Troy",
+        "rel": [
+            "Yonkers",
+            "Utica",
+            "New Rochelle",
+            "Buffalo",
+            "Syracuse"
+        ]
+    },
+    {
+        "id": "Niagara Falls",
+        "rel": [
+            "Binghamton",
+            "Syracuse",
+            "Valley Stream",
+            "Freeport",
+            "Yonkers"
+        ]
+    },
+    {
+        "id": "Binghamton",
+        "rel": [
+            "Albany",
+            "Mount Vernon",
+            "Syracuse"
+        ]
+    },
+    {
+        "id": "Freeport",
+        "rel": [
+            "Mount Vernon",
+            "Valley Stream",
+            "White Plains"
+        ]
+    },
+    {
+        "id": "Valley Stream",
+        "rel": [
+            "Buffalo",
+            "Freeport",
+            "Mount Vernon",
+            "Binghamton"
+        ]
+    }
+]
